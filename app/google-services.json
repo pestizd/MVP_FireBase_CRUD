@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460039956748",
+    "firebase_url": "https://crud-firebase-6a010.firebaseio.com",
+    "project_id": "crud-firebase-6a010",
+    "storage_bucket": "crud-firebase-6a010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460039956748:android:97fc9cf6477ed1f3b80129",
+        "android_client_info": {
+          "package_name": "StipeBacic.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460039956748-tqa5ru0dj490n5bp5enrvir46eaeol3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "StipeBacic.myapplication",
+            "certificate_hash": "d00dec84f8d93c9ae417af737f6da276b51282ce"
+          }
+        },
+        {
+          "client_id": "460039956748-m72eolpk9bt2c1rluh8gbqigu29se26f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EY_tP0-FHhd0jZJ6Brl6sx6X_Z4gAbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460039956748-m72eolpk9bt2c1rluh8gbqigu29se26f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
